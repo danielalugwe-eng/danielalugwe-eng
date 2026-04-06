@@ -6,7 +6,7 @@
 
 *I don't just train models — I make sure they actually survive production.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-alugwe-054b8626b)
 
 </div>
 
@@ -113,7 +113,7 @@ I believe a well-designed pipeline is as important as a well-tuned model. If it 
 
 I'm always open to collaborating on ML infrastructure projects, discussing model deployment strategies, or talking through pipeline architecture over a virtual coffee.
 
-📫 Reach me at: **your.email@example.com**
+📫 Reach me at: **danielalugwe@gmail.com**
 
 ---
 
