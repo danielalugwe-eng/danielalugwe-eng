@@ -4,7 +4,7 @@
 
 ### MLOps Engineer & Machine Learning Practitioner
 
-*I don't just train models — I make sure they actually survive production.*
+*I don't just train models, I make sure they actually survive production.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-alugwe-054b8626b)
 
